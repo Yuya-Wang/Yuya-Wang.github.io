@@ -23,9 +23,9 @@ repository               : "Yuya-Wang/yuya-wang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Yuya Wang"
+  pronouns         : "she/her"  
+  bio              : ""
   location         : "Waltham - Massechusetts"
   employer         : "Brandeis University"
   uri              : # URL
