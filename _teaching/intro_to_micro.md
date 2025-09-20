@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/intro_to_micro
 venue: "Brandeis University, Economics"
-date: 2024-06-01
 location: "Waltham, United States"
 ---
 
