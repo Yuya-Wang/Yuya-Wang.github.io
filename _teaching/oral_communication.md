@@ -1,7 +1,7 @@
 ---
 title: "ECON 25A: Oral Communication in Economics Practicum Syllabus"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate course"
 permalink: /teaching/oral_communication
 venue: "Brandeis University, Economics"
 date: 2024
