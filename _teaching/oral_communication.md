@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/oral_communication
 venue: "Brandeis University, Economics"
+date: 2024-08-27
 location: "Waltham, United States"
 ---
 
