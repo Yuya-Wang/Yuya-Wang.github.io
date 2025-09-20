@@ -1,7 +1,7 @@
 ---
 title: "Technological Complexity, Valuation and Drives"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/Technological_Complexity_and_Valuation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-09-17
