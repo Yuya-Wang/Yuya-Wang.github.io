@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Microeconomics"
+title: "ECON 10A: Introduction to Microeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/intro_to_micro
@@ -8,13 +8,4 @@ date: Summer 2024, Summer 2025
 location: "Waltham, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The goal of this course is to acquaint you with fundamental economic concepts, principles, and analytical techniques and their common applications. This course begins with an introduction to supply and demand and the basic forces that determine equilibrium in a market economy. We then turn our attention to consumers, firms, and their economic behavior. We will also cover welfare economics, labor markets, income inequality, and poverty. By the end of the course, you will be able to understand the fundamentals of microeconomic theory and use your knowledge to think about a number of policy questions relevant to the operation of the real economy.
