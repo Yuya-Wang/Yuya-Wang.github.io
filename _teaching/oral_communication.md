@@ -1,5 +1,5 @@
 ---
-title: "ECON 25A: Oral Communication in Economics Practicum Syllabus"
+title: "ECON 25A: Oral Communication in Economics Practicum"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/oral_communication
