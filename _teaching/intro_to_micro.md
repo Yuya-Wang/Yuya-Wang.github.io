@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/intro_to_micro
 venue: "Brandeis University, Economics"
 date: 2024-06-01
+date_range: "2024–2026"
 location: "Waltham, United States"
 ---
 
