@@ -28,11 +28,11 @@ Education
 Research
 ======
 ### Job Market Paper
-**[When Technology Becomes Complex: Measurement, Market Structure, and Economic Value]({{ base_path }}/publications/Industry_Market_Capitalization_and_Technology_Complexity/)**  
-Develops a network-based measure of industry technological complexity and studies how complexity, market structure, financial flexibility, and innovation incentives relate to patent value and stock-market outcomes.
+**[Complex Technologies and Economic Value]({{ base_path }}/publications/Industry_Market_Capitalization_and_Technology_Complexity/)**  
+Develops a Network Diversity Score to measure industry-level technological complexity. Investment intensity is strongly associated with subsequent complexity in more competitive industries, but this relationship is substantially weaker in more concentrated markets. Greater complexity is associated with hiring more lower-paid workers, but not with higher subsequent firm profitability or market valuation.
 
 ### Work in Progress
-*The Reason for M&As and its Impact on Deal Valuation (with Debarshi Nandy and Shubhranshu Shekhar)*
+*What Drives Corporate M&A Deals? (with Debarshi Nandy and Shubhranshu Shekhar)*
 
 *The LLM Oracle Fallacy in Finance (with Debarshi Nandy and Shubhranshu Shekhar)*
 
